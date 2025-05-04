@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Add New Student</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h2>Add Student</h2>

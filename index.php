@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Student List</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h2>Student Records</h2>

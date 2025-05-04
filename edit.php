@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Edit Student</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h2>Edit Student</h2>
